@@ -1,1 +1,3 @@
 Hello. This is me editing a readme.md file that was formed when I made this new repository in github. To edit this file, I pressed vim readme.md and this text editor came up. So now I'm typing and I will hit esc --> :x and hopefully that will save this message and get me the f outta here 
+This is also me just putting code . and editing of VSCode which is so much easier lmao
+I also know now that capitalization is v important because now I have two readme files
